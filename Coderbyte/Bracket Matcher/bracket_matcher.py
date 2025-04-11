@@ -1,5 +1,4 @@
 def BracketMatcher(strParam):
-
   bracket = []
 
   for i in strParam:
