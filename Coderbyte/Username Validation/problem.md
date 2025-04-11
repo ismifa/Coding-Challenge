@@ -7,3 +7,10 @@ Have the function CodelandUsernameValidation(str) take the *str* parameter being
 4. It cannot end with an underscore character.
 
 If the username is valid then your program should return the string true, otherwise return the string false.
+
+Examples:  
+Input: "aa_"  
+Output: false
+
+Input: "u__hello_world123"  
+Output: true
